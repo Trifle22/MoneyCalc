@@ -5,8 +5,8 @@
     --main-color: #fff;
     --border-color: #aaa;
     --footer-color: #ddd;
-    --positive-color: olivedrab;
-    --negative-color: tomato;
+    --positive-color: #ffc0cb;
+    --negative-color: #9f79ee;
 }
 
 html {
